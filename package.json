@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fontsource/inter": "^5.0.8",
     "@nextui-org/button": "2.0.0",
     "@nextui-org/code": "2.0.0",
     "@nextui-org/input": "2.0.0",
