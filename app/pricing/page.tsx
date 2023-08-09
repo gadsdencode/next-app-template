@@ -9,7 +9,7 @@ export default function PricingPage() {
 		<h1 className={title()}>Pricing</h1>
         </div>
       </header>
-      <div className="container mx-auto my-8 flex-grow">
+      <div className="flex flex-grow items-stretch container mx-auto my-8">
         <h2 className="text-2xl font-bold mb-4">Featured Products</h2>
         <div className="grid grid-cols-3 gap-4">
           <div className="bg-white rounded-lg shadow transform transition-transform duration-300 hover:scale-105 hover:shadow-xl p-4">
