@@ -10,7 +10,7 @@ export default function PricingPage() {
         </div>
       </header>
       <div className="container mx-auto my-8 flex-grow">
-        <h2 className="text-2xl font-bold mb-4">Featured Products</h2>
+        <h2 className="text-2xl font-bold mb-4">Products</h2>
         <div className="grid grid-cols-3 gap-4">
           <div className="bg-white rounded-lg shadow transform transition-transform duration-300 hover:scale-105 hover:shadow-xl p-4">
             <Image src="/logo2.png" alt="Product Image" width={300} height={200} />
