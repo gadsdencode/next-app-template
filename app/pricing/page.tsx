@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function PricingPage() {
 	return (
-    <div className="bg-white h-screen w-screen">
+    <div className="bg-white flex justify-center items-center">
       <header className="bg-gray-900 text-white py-4">
         <div className="container mx-auto flex justify-between items-center">
 		<h1 className={title()}>Pricing</h1>
